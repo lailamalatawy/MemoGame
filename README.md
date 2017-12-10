@@ -2,7 +2,7 @@
  An iOS mobile application game that is based on the classic memorization/concentration game.
 
 ## Usage
-### Prerequisites
+### Prerequisites:
 + Xcode 8   (or higher)
 + Swift 3.0 (or higher)
 
