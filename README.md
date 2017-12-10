@@ -7,6 +7,6 @@
 + Swift 3.0 (or higher)
 
 ## Disclaimer
-+ This app was made only for academic purposes, and was based on Stanford's course: "Developing iOS Apps with Swift"
+This app was made only for academic purposes, and was based on Stanford's course: "Developing iOS Apps with Swift"
 
 
